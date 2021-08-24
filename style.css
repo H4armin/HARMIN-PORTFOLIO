@@ -6,7 +6,7 @@ a{text-decoration: none;}
 a:hover{text-decoration: none;}
 
 li{list-style:none;}
-}
+
 
 
 p{
@@ -168,7 +168,15 @@ p{
 
 /***************SERVICE div css END******/
 
+#logos{
+      
 
+     margin-left: 70%;
+}
+
+#instagram{
+	list-style-type: none;
+}
 
 
 
@@ -219,6 +227,11 @@ p{
 	padding: 45px 0;
 	position: relative;
 
+
+}
+
+#instagram{
+	color: #000;
 }
 /***********footer start*********/
 
